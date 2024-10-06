@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d799e51-e574-4751-a81f-781f19abc596" name="Changes" comment="14 Challenge">
+    <list default="true" id="5d799e51-e574-4751-a81f-781f19abc596" name="Changes" comment="new start 😎">
       <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrays/RankTransformOfAnArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/datastructures/MinStack.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/datastructures/Queue.java" afterDir="false" />
@@ -202,6 +202,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="14 Challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="14 Challenge" />
+    <MESSAGE value="new start " />
+    <option name="LAST_COMMIT_MESSAGE" value="new start " />
   </component>
 </project>
