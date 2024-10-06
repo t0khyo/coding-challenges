@@ -1,12 +1,6 @@
-package io.t0khyo.arrayhashing;
+package io.t0khyo.strings;
 
-public class CH03StringReverse {
-    public static void main(String[] args) {
-        String str = "Hello, World!";
-        System.out.println(reverseString(str));
-        System.out.println(reverseStringManually(str));
-    }
-
+public class StringReverse {
     public static String reverseString(String str) {
         StringBuilder result = new StringBuilder(str);
         result.reverse();

@@ -1,8 +1,8 @@
-package io.t0khyo.arrayhashing;
+package io.t0khyo.misc;
 
 import java.util.*;
 
-public class CH08TopKFrequentElements {
+public class TopKFrequentElements {
     public static int[] topKFrequent(int[] nums, int k) {
         Map<Integer, Integer> numFrequancyMap = new HashMap<>();
         List<Integer>[] bucket = new List[nums.length + 1];

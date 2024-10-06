@@ -1,8 +1,6 @@
-package io.t0khyo.arrayhashing;
+package io.t0khyo.arrays;
 
-import java.util.Arrays;
-
-public class CH10ProductOfArrayExceptSelf {
+public class ProductOfArrayExceptSelf {
     public static void main(String[] args) {
         int[] nums = {1, 2, 3, 4};
         int[] result = productExceptSelf(nums);
@@ -38,7 +36,7 @@ public class CH10ProductOfArrayExceptSelf {
             prefix *= nums[i];
         }
 
-        for (int i = nums.length-1 ;i >= 0;i--) {
+        for (int i = nums.length - 1;i >= 0;i--) {
             result[i] *= postfix;
             postfix *= nums[i];
         }

@@ -1,6 +1,6 @@
-package io.t0khyo.arrayhashing;
+package io.t0khyo.strings;
 
-public class CH12CountTheNumberOfConsistentStrings {
+public class CountTheNumberOfConsistentStrings {
     public int countConsistentStrings(String allowed, String[] words) {
         int numOfConsistentWords = 0;
 

@@ -1,8 +1,8 @@
-package io.t0khyo.arrayhashing;
+package io.t0khyo.misc;
 
 import java.util.Stack;
 
-public class CH01BracketMatcher {
+public class BracketMatcher {
     public static void main(String[] args) {
         String str = "((hello (world))))";
         System.out.println(bracketMatcher(str));

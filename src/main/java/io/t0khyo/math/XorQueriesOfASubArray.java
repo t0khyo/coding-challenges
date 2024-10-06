@@ -1,6 +1,6 @@
-package io.t0khyo.arrayhashing;
+package io.t0khyo.math;
 
-public class CH13XorQueriesOfASubarray {
+public class XorQueriesOfASubArray {
     public static void main(String[] args) {
         int[] arr1 = {1, 3, 4, 8};
         int[][] queries1 = {{0, 1}, {1, 2}, {0, 3}, {3, 3}};

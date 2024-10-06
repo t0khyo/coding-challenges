@@ -1,8 +1,8 @@
-package io.t0khyo.arrayhashing;
+package io.t0khyo.strings;
 
 import java.util.*;
 
-public class CH07GroupAnagrams {
+public class GroupAnagrams {
 
     // takes (m*nlog(n))
     public static List<List<String>> groupAnagrams(String[] strs) {

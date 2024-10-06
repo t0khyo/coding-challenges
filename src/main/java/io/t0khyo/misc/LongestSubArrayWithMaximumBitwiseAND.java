@@ -1,6 +1,6 @@
-package io.t0khyo.arrayhashing;
+package io.t0khyo.misc;
 
-public class CH14LongestSubarrayWithMaximumBitwiseAND {
+public class LongestSubArrayWithMaximumBitwiseAND {
     public int longestSubarray(int[] nums) {
         int max = 0;
         int size = 0;

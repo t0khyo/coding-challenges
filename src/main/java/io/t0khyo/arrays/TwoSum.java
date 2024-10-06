@@ -1,11 +1,11 @@
-package io.t0khyo.arrayhashing;
+package io.t0khyo.arrays;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class CH02TwoSum {
+public class TwoSum {
     public static void main(String[] args) {
-        int[] nums = new int[]{3,2,4};
+        int[] nums = new int[]{3, 2, 4};
         int target = 9;
         int[] result = twoSum(nums, target);
         System.out.println(result[0] + ", " + result[1]);

@@ -1,9 +1,9 @@
-package io.t0khyo.arrayhashing;
+package io.t0khyo.arrays;
 
 import java.util.HashSet;
 import java.util.Set;
 
-public class CH04ContainsDuplicate {
+public class ContainsDuplicate {
     public boolean containsDuplicate(int[] nums) {
         Set<Integer> visitedNumber = new HashSet<>();
         for (int num : nums) {

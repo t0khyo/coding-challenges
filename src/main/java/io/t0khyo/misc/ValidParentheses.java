@@ -1,8 +1,8 @@
-package io.t0khyo.arrayhashing;
+package io.t0khyo.misc;
 
 import java.util.Stack;
 
-public class CH09ValidParentheses {
+public class ValidParentheses {
     private static boolean isOpenParenthesis(char c) {
         return c == '(' || c == '{' || c == '[';
     }

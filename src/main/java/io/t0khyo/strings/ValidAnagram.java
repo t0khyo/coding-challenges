@@ -1,9 +1,9 @@
-package io.t0khyo.arrayhashing;
+package io.t0khyo.strings;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class CH06ValidAnagram {
+public class ValidAnagram {
     public static void main(String[] args) {
         String s = "anagram";
         String t = "mragana";

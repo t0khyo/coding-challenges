@@ -1,8 +1,8 @@
-package io.t0khyo.arrayhashing;
+package io.t0khyo.misc;
 
 import java.util.HashSet;
 
-public class CH11LongestConsecutiveSequence {
+public class LongestConsecutiveSequence {
     public int longestConsecutive(int[] nums) {
         int longest = 0;
         HashSet<Integer> numSet = new HashSet<>();

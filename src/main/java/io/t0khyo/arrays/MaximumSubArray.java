@@ -1,6 +1,6 @@
-package io.t0khyo.arrayhashing;
+package io.t0khyo.arrays;
 
-public class CH05MaximumSubArray {
+public class MaximumSubArray {
     public static int maxSubArray(int[] nums) {
         int currentSum = 0;
         int maxSum = Integer.MIN_VALUE;

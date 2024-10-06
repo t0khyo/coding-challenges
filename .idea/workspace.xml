@@ -4,31 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d799e51-e574-4751-a81f-781f19abc596" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH01BracketMatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH02TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH03StringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH04ContainsDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH05MaximumSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH06ValidAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH07GroupAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH08TopKFrequentElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH09ValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH10ProductOfArrayExceptSelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH11LongestConsecutiveSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH12CountTheNumberOfConsistentStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH13XorQueriesOfASubarray.java" afterDir="false" />
+    <list default="true" id="5d799e51-e574-4751-a81f-781f19abc596" name="Changes" comment="14 Challenge">
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrays/RankTransformOfAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/datastructures/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/datastructures/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/datastructures/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/dp/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/dp/FibNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/math/LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/math/LexicographicalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/misc/MinimumTimeDifferance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/ExtraCharactersInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/FindTheLengthOfTheLongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/FindTheLongestSubstringContainingVowelsEvenCounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/UncommonWordsFromTwoStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH01BracketMatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/misc/BracketMatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH02TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrays/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH03StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/StringReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH04ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrays/ContainsDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH05MaximumSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrays/MaximumSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH06ValidAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/ValidAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH07GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/GroupAnagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH08TopKFrequentElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/misc/TopKFrequentElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH09ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/misc/ValidParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH10ProductOfArrayExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrays/ProductOfArrayExceptSelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH11LongestConsecutiveSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/misc/LongestConsecutiveSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH12CountTheNumberOfConsistentStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/CountTheNumberOfConsistentStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH13XorQueriesOfASubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/math/XorQueriesOfASubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrayhashing/CH14LongestSubarrayWithMaximumBitwiseAND.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/misc/LongestSubArrayWithMaximumBitwiseAND.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,34 +54,40 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2hEtSlOkgSNcUaVTufl7JqGi3uD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CH01BracketMatcher.executor": "Run",
-    "Application.CH02TwoSum.executor": "Run",
-    "Application.CH03StringReverse.executor": "Run",
-    "Application.CH05MaximumSubArray.executor": "Run",
-    "Application.CH06ValidAnagram.executor": "Run",
-    "Application.CH07GroupAnagrams.executor": "Run",
-    "Application.CH08TopKFrequentElements.executor": "Run",
-    "Application.CH09ValidParentheses.executor": "Run",
-    "Application.CH10ProductOfArrayExceptSelf.executor": "Run",
-    "Application.CH13XorQueriesOfASubarray.executor": "Run",
-    "Application.JavaStack.executor": "Run",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "B:/spring-boot-station/21-problem-solving/coding-challenges/src/main/java/io/t0khyo/datastructure/array_hashing"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CH01BracketMatcher.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CH02TwoSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CH03StringReverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CH05MaximumSubArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CH06ValidAnagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CH07GroupAnagrams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CH08TopKFrequentElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CH09ValidParentheses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CH10ProductOfArrayExceptSelf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CH13XorQueriesOfASubarray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CH19LexicographicalNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CH20FibNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CH21CoinChange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ch22FindTheLengthOfTheLongestCommonPrefix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaStack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;B:/spring-boot-station/21-problem-solving/coding-challenges/src/main/java/io/t0khyo/datastructure/array_hashing&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="B:\spring-boot-station\21-problem-solving\coding-challenges\src\main\java\io\t0khyo\datastructure\array_hashing" />
@@ -85,13 +96,13 @@
       <recent name="io.t0khyo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CH13XorQueriesOfASubarray">
-    <configuration name="CH07GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.t0khyo.datastructure.array_hashing.CH07GroupAnagrams" />
+  <component name="RunManager" selected="Application.Ch22FindTheLengthOfTheLongestCommonPrefix">
+    <configuration name="CH20FibNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.t0khyo.arrayhashing.CH20FibNumber" />
       <module name="coding-challenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.t0khyo.datastructure.array_hashing.*" />
+          <option name="PATTERN" value="io.t0khyo.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CH08TopKFrequentElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.t0khyo.datastructure.array_hashing.CH08TopKFrequentElements" />
+    <configuration name="CH21CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.t0khyo.arrayhashing.CH21CoinChange" />
       <module name="coding-challenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.t0khyo.datastructure.array_hashing.*" />
+          <option name="PATTERN" value="io.t0khyo.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CH09ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.t0khyo.datastructure.array_hashing.CH09ValidParentheses" />
+    <configuration name="Ch22FindTheLengthOfTheLongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.t0khyo.arrayhashing.Ch22FindTheLengthOfTheLongestCommonPrefix" />
       <module name="coding-challenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.t0khyo.datastructure.array_hashing.*" />
+          <option name="PATTERN" value="io.t0khyo.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CH10ProductOfArrayExceptSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.t0khyo.arrayhashing.CH10ProductOfArrayExceptSelf" />
+    <configuration name="LexicographicalNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.t0khyo.math.LexicographicalNumbers" />
       <module name="coding-challenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.t0khyo.arrayhashing.CH13XorQueriesOfASubarray" />
+          <option name="PATTERN" value="io.t0khyo.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CH13XorQueriesOfASubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.t0khyo.arrayhashing.CH13XorQueriesOfASubarray" />
+    <configuration name="XorQueriesOfASubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.t0khyo.math.XorQueriesOfASubArray" />
       <module name="coding-challenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.t0khyo.arrayhashing.*" />
+          <option name="PATTERN" value="io.t0khyo.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CH13XorQueriesOfASubarray" />
-        <item itemvalue="Application.CH10ProductOfArrayExceptSelf" />
-        <item itemvalue="Application.CH09ValidParentheses" />
-        <item itemvalue="Application.CH08TopKFrequentElements" />
-        <item itemvalue="Application.CH07GroupAnagrams" />
+        <item itemvalue="Application.Ch22FindTheLengthOfTheLongestCommonPrefix" />
+        <item itemvalue="Application.CH21CoinChange" />
+        <item itemvalue="Application.CH20FibNumber" />
+        <item itemvalue="Application.CH19LexicographicalNumbers" />
+        <item itemvalue="Application.XorQueriesOfASubArray" />
       </list>
     </recent_temporary>
   </component>
@@ -178,6 +189,19 @@
       <option name="presentableId" value="Default" />
       <updated>1717171066536</updated>
     </task>
+    <task id="LOCAL-00001" summary="14 Challenge">
+      <option name="closed" value="true" />
+      <created>1726413281913</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726413281913</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="14 Challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="14 Challenge" />
   </component>
 </project>
