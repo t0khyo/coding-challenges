@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d799e51-e574-4751-a81f-781f19abc596" name="Changes" comment="GenerateParentheses">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/stacks/DailyTemperatures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/stacks/MinimumNumberOfSwapsToMakeTheStringBalanced.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/stacks/MinimumStringLengthAfterRemovingSubstrings.java" afterDir="false" />
+    <list default="true" id="5d799e51-e574-4751-a81f-781f19abc596" name="Changes" comment="Stack problems">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/stacks/GenerateParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/stacks/GenerateParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/stacks/MaximumWidthRamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/stacks/MaximumWidthRamp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +53,7 @@
     "Application.DailyTemperatures.executor": "Debug",
     "Application.JavaStack.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MaximumWidthRamp.executor": "Run",
     "Application.MinimumStringLengthAfterRemovingSubstrings.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -74,20 +72,7 @@
       <recent name="io.t0khyo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DailyTemperatures">
-    <configuration name="CH20FibNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.t0khyo.arrayhashing.CH20FibNumber" />
-      <module name="coding-challenges" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.t0khyo.dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MaximumWidthRamp">
     <configuration name="CH21CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.t0khyo.arrayhashing.CH21CoinChange" />
       <module name="coding-challenges" />
@@ -127,6 +112,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MaximumWidthRamp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.t0khyo.stacks.MaximumWidthRamp" />
+      <module name="coding-challenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.t0khyo.stacks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MinimumStringLengthAfterRemovingSubstrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.t0khyo.stacks.MinimumStringLengthAfterRemovingSubstrings" />
       <module name="coding-challenges" />
@@ -142,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumWidthRamp" />
         <item itemvalue="Application.DailyTemperatures" />
         <item itemvalue="Application.MinimumStringLengthAfterRemovingSubstrings" />
         <item itemvalue="Application.Ch22FindTheLengthOfTheLongestCommonPrefix" />
         <item itemvalue="Application.CH21CoinChange" />
-        <item itemvalue="Application.CH20FibNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728333575254</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Stack problems">
+      <option name="closed" value="true" />
+      <created>1728592348119</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728592348119</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -224,7 +230,8 @@
     <MESSAGE value="SentenceSimilarityIII" />
     <MESSAGE value="EvaluateReversePolishNotation" />
     <MESSAGE value="GenerateParentheses" />
-    <option name="LAST_COMMIT_MESSAGE" value="GenerateParentheses" />
+    <MESSAGE value="Stack problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stack problems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
