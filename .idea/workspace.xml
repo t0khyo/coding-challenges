@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d799e51-e574-4751-a81f-781f19abc596" name="Changes" comment="SeparateBlackAndWhiteBalls">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/datastructures/MinHeap.java" afterDir="false" />
+    <list default="true" id="5d799e51-e574-4751-a81f-781f19abc596" name="Changes" comment="LongestHappyString">
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/math/MaximumSwap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/LongestHappyString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -237,7 +238,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729095406089</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="MinHeap">
+      <option name="closed" value="true" />
+      <created>1729104306382</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729104306382</updated>
+    </task>
+    <task id="LOCAL-00011" summary="updated gitignore">
+      <option name="closed" value="true" />
+      <created>1729104377739</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1729104377739</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -249,7 +266,10 @@
     <MESSAGE value="Stack problems" />
     <MESSAGE value="MaximumWidthRamp" />
     <MESSAGE value="SeparateBlackAndWhiteBalls" />
-    <option name="LAST_COMMIT_MESSAGE" value="SeparateBlackAndWhiteBalls" />
+    <MESSAGE value="MinHeap" />
+    <MESSAGE value="updated gitignore" />
+    <MESSAGE value="LongestHappyString" />
+    <option name="LAST_COMMIT_MESSAGE" value="LongestHappyString" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
