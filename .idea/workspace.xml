@@ -4,10 +4,61 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d799e51-e574-4751-a81f-781f19abc596" name="Changes" comment="LongestHappyString">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/math/MaximumSwap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/LongestHappyString.java" afterDir="false" />
+    <list default="true" id="5d799e51-e574-4751-a81f-781f19abc596" name="Changes" comment="DFS">
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrays/LongestSquareStreakInAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/algorithms/DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/algorithms/DFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrays/ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrays/ContainsDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrays/MaximumSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrays/MaximumSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrays/ProductOfArrayExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrays/ProductOfArrayExceptSelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrays/RankTransformOfAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrays/RankTransformOfAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrays/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/arrays/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/backTracking/NumberOfMaxUniqueSubstrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/backTracking/NumberOfMaxUniqueSubstrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/datastructures/MinHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/datastructures/MinHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/datastructures/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/datastructures/MinStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/datastructures/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/datastructures/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/datastructures/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/datastructures/Trie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/dp/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/dp/CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/dp/FibNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/dp/FibNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/graphs/KthLargestSumInABinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/graphs/KthLargestSumInABinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/math/LargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/math/LargestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/math/LexicographicalNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/math/LexicographicalNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/math/MaximumSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/math/MaximumSwap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/math/XorQueriesOfASubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/math/XorQueriesOfASubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/misc/BracketMatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/misc/BracketMatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/misc/LongestConsecutiveSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/misc/LongestConsecutiveSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/misc/LongestSubArrayWithMaximumBitwiseAND.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/misc/LongestSubArrayWithMaximumBitwiseAND.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/misc/MinimumTimeDifferance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/misc/MinimumTimeDifferance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/misc/TopKFrequentElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/misc/TopKFrequentElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/misc/ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/misc/ValidParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/stacks/DailyTemperatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/stacks/DailyTemperatures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/stacks/EvaluateReversePolishNotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/stacks/EvaluateReversePolishNotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/stacks/GenerateParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/stacks/GenerateParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/stacks/MaximumWidthRamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/stacks/MaximumWidthRamp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/stacks/MinimumAddToMakeParenthesesValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/stacks/MinimumAddToMakeParenthesesValid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/stacks/MinimumNumberOfSwapsToMakeTheStringBalanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/stacks/MinimumNumberOfSwapsToMakeTheStringBalanced.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/stacks/MinimumStringLengthAfterRemovingSubstrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/stacks/MinimumStringLengthAfterRemovingSubstrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/stacks/NextGreaterElementI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/stacks/NextGreaterElementI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/CountTheNumberOfConsistentStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/CountTheNumberOfConsistentStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/ExtraCharactersInAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/ExtraCharactersInAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/FindTheLengthOfTheLongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/FindTheLengthOfTheLongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/FindTheLongestSubstringContainingVowelsEvenCounts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/FindTheLongestSubstringContainingVowelsEvenCounts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/GroupAnagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/LongestHappyString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/LongestHappyString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/SentenceSimilarityIII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/SentenceSimilarityIII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/StringReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/UncommonWordsFromTwoStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/UncommonWordsFromTwoStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/ValidAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/strings/ValidAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/twopointers/SeparateBlackAndWhiteBalls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/twopointers/SeparateBlackAndWhiteBalls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/twopointers/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/twopointers/ValidPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/t0khyo/twopointers/ValidPalindromeII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/t0khyo/twopointers/ValidPalindromeII.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,36 +86,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CH01BracketMatcher.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH02TwoSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH03StringReverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH05MaximumSubArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH06ValidAnagram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH07GroupAnagrams.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH08TopKFrequentElements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH09ValidParentheses.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH10ProductOfArrayExceptSelf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH13XorQueriesOfASubarray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH19LexicographicalNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH20FibNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH21CoinChange.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ch22FindTheLengthOfTheLongestCommonPrefix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DailyTemperatures.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.JavaStack.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaximumWidthRamp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinimumStringLengthAfterRemovingSubstrings.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;B:/spring-boot-station/21-problem-solving/coding-challenges/src/main/java/io/t0khyo/datastructure/array_hashing&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CH01BracketMatcher.executor": "Run",
+    "Application.CH02TwoSum.executor": "Run",
+    "Application.CH03StringReverse.executor": "Run",
+    "Application.CH05MaximumSubArray.executor": "Run",
+    "Application.CH06ValidAnagram.executor": "Run",
+    "Application.CH07GroupAnagrams.executor": "Run",
+    "Application.CH08TopKFrequentElements.executor": "Run",
+    "Application.CH09ValidParentheses.executor": "Run",
+    "Application.CH10ProductOfArrayExceptSelf.executor": "Run",
+    "Application.CH13XorQueriesOfASubarray.executor": "Run",
+    "Application.CH19LexicographicalNumbers.executor": "Run",
+    "Application.CH20FibNumber.executor": "Run",
+    "Application.CH21CoinChange.executor": "Run",
+    "Application.Ch22FindTheLengthOfTheLongestCommonPrefix.executor": "Run",
+    "Application.DailyTemperatures.executor": "Debug",
+    "Application.JavaStack.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaximumWidthRamp.executor": "Run",
+    "Application.MinimumStringLengthAfterRemovingSubstrings.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/media/t0khyo/DATA/spring-boot-station/21-problem-solving/coding-challenges",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="B:\spring-boot-station\21-problem-solving\coding-challenges\src\main\java\io\t0khyo\datastructure\array_hashing" />
@@ -148,14 +200,6 @@
         <item itemvalue="Application.CH21CoinChange" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
-        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-48ba4555" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -254,7 +298,31 @@
       <option name="project" value="LOCAL" />
       <updated>1729104377739</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="NumberOfMaxUniqueSubstrings">
+      <option name="closed" value="true" />
+      <created>1729579264408</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729579264409</updated>
+    </task>
+    <task id="LOCAL-00013" summary="KthLargestSumInABinaryTree">
+      <option name="closed" value="true" />
+      <created>1729582870519</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1729582870519</updated>
+    </task>
+    <task id="LOCAL-00014" summary="DFS">
+      <option name="closed" value="true" />
+      <created>1729582880788</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1729582880788</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -269,7 +337,10 @@
     <MESSAGE value="MinHeap" />
     <MESSAGE value="updated gitignore" />
     <MESSAGE value="LongestHappyString" />
-    <option name="LAST_COMMIT_MESSAGE" value="LongestHappyString" />
+    <MESSAGE value="NumberOfMaxUniqueSubstrings" />
+    <MESSAGE value="KthLargestSumInABinaryTree" />
+    <MESSAGE value="DFS" />
+    <option name="LAST_COMMIT_MESSAGE" value="DFS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
